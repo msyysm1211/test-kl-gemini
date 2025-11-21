@@ -1,0 +1,5 @@
+{
+  "name": "VoxelArchitect AI",
+  "description": "An isometric voxel sculpture builder powered by Gemini. Create 3D art, get AI critiques, and challenge yourself to rebuild AI-generated remixes using your block inventory.",
+  "requestFramePermissions": []
+}
